@@ -15,13 +15,14 @@ x = (ed - bf) / (ad - bc)
 
 y = (af-ec) / (ad - bc)
 
-	First, I made privaet data fields for all the values. Second, I 
+First, I made privaet data fields for all the values. Second, I 
 created a constructor for the values. Then, I made getters and setters for all
 the values. Next, I made a method to check if the linear equations are 
 solvable that also mean the denomenators are not zero. After that, I created
-two methods to solve for x and y. Lastly, I made a program to operate calculations 
+two methods to solve for x and y. Lastly, I made a program to operate calculations
 by using a scanner. All the process was completed inside of the main function. 
-	Main problem I had in this project was just getting used to
+	
+Main issue I had in this project was just getting used to
 "Java way" since I have taken two C++ courses before this course. Future goal is 
 making a complex number calculator in Java that I made with C++. It would 
 involve a lot of more processes such as taking care of how minus or plus sign
